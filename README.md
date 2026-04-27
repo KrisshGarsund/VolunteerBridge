@@ -15,7 +15,7 @@ VolunteerBridge is a full-stack web platform that connects NGOs with volunteers.
 | 🌐 **Multi-Portal Design** | Three distinct portals — Admin, Volunteer, and NGO — each with its own tailored interface, features, and visual identity. |
 | ⚡ **Urgency Levels** | NGOs can mark requests as low, medium, or high urgency — helping volunteers prioritize where help is needed most. |
 
-![Features](screenshots/features.png)
+
 
 ---
 
